@@ -1,0 +1,76 @@
+﻿Выполняется установка сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление сборки 'D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+   logfile = D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.

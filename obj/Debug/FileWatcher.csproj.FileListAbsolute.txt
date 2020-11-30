@@ -1,0 +1,53 @@
+D:\3семестр\Шарпы\Lab3\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+D:\3семестр\Шарпы\Lab3\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe.config
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.exe
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\FileWatcher.pdb
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Buffers.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Memory.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Numerics.Vectors.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Text.Encodings.Web.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Text.Json.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.ValueTuple.dll
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Buffers.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Memory.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Numerics.Vectors.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Text.Encodings.Web.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Text.Json.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\bin\Debug\System.ValueTuple.xml
+D:\3семестр\Шарпы\Lab3\FileWatcher\obj\Debug\FileWatcher.csproj.CopyComplete
+D:\3семестр\Шарпы\Lab3\FileWatcher\obj\Debug\FileWatcher.exe
+D:\3семестр\Шарпы\Lab3\FileWatcher\obj\Debug\FileWatcher.pdb
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\FileWatcher.exe.config
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\FileWatcher.exe
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\FileWatcher.pdb
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Buffers.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.IO.Compression.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Memory.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Numerics.Vectors.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Text.Json.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.ValueTuple.dll
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Buffers.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Memory.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Numerics.Vectors.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Text.Json.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\bin\Debug\System.ValueTuple.xml
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\obj\Debug\FileWatcher.csproj.CopyComplete
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\obj\Debug\FileWatcher.exe
+D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Lab3_isp-main\obj\Debug\FileWatcher.pdb

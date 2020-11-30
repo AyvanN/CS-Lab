@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <SourcePath>D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Source</SourcePath>
+  <TargetPath>D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\Target</TargetPath>
+  <LogFilePath>D:\BSUIR Учеба\Учеба\Лабы третий сем\С#\LogFile.txt</LogFilePath>
+  <NeedToEncrypt>true</NeedToEncrypt>
+  <ArchiveOptions>
+    <NeedToArchive>true</NeedToArchive>
+    <NeedToCompress>true</NeedToCompress>
+    <Level>Optimal</Level>
+  </ArchiveOptions>
+</settings>

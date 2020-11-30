@@ -1,0 +1,11 @@
+{
+  "SourceParth": "D:\\BSUIR Учеба\\Учеба\\Лабы третий сем\\С#\\\\\\\\Source",
+  "TargetParth": "D:\\BSUIR Учеба\\Учеба\\Лабы третий сем\\С#\\\\\\\\Target",
+  "LogFileParth": "D:\\BSUIR Учеба\\Учеба\\Лабы третий сем\\С#\\\\\\\\LogFile.txt",
+  "NeedToEncrypt": true,
+  "ArchiveTools": {
+    "Archive": true,
+    "Compress": false,
+    "Level": 0
+  }
+}
